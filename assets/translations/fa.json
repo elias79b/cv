@@ -1,0 +1,55 @@
+{
+  "hero_title": "برنامه نویس فلاتر",
+  "download_cv": "دانلود رزومه",
+  "skills_title": "مهارت‌ها",
+  "skill_flutter": "توسعه با فلاتر",
+  "skill_flutter_desc": "ساخت اپلیکیشن‌های موبایل و وب با عملکرد بالا و طراحی مدرن با Flutter.",
+  "skill_state": "مدیریت وضعیت",
+  "skill_state_desc": "تجربه کار با Bloc، Provider و معماری مقیاس‌پذیر.",
+  "skill_backend": "بک‌اند و دیتابیس",
+  "skill_backend_desc": "کار با Firebase، Supabase، REST API و دیتابیس محلی.",
+  "skill_arch": "معماری نرم‌افزار",
+  "skill_arch_desc": "MVVM، Clean Architecture و ساختار قابل نگهداری.",
+  "skill_tools": "ابزارهای توسعه",
+  "skill_tools_desc": "Android Studio، Git، GitHub، Trello، Jira.",
+  "skill_ci": "CI / CD",
+  "skill_ci_desc": "اتوماسیون Build، Test و Deploy.",
+  "projects_title": "پروژه‌ها",
+  "view_project": "مشاهده پروژه",
+
+  "project_tarazino": "ترازینو",
+  "project_tarazino_desc": "اپلیکیشن دستیار مالی مدرن برای محاسبه حقوق، برنامه‌ریزی مالی و مدیریت.",
+
+  "project_speech": "تبدیل گفتار به متن",
+  "project_speech_desc": "اپلیکیشن تبدیل گفتار به متن به‌صورت بلادرنگ با تمرکز بر سرعت و دقت.",
+  "experience_title": "سوابق کاری",
+
+  "exp_tadilo_role": "برنامه‌نویس فلاتر",
+  "exp_tadilo_date": "بهمن ۱۴۰۳ – اکنون",
+  "exp_tadilo_a1": "توسعه اپلیکیشن‌های مقیاس‌پذیر برای فروشگاه‌ها و کافه‌ها.",
+  "exp_tadilo_a2": "کمک به کاهش تا ۵۰٪ هزینه‌های عملیاتی با تحلیل داده.",
+
+  "exp_sarvina_role": "برنامه‌نویس فلاتر",
+  "exp_sarvina_date": "اردیبهشت ۱۴۰۲ – بهمن ۱۴۰۳",
+  "exp_sarvina_a1": "توسعه و انتشار اپلیکیشن‌های Flutter با عملکرد بالا.",
+  "exp_sarvina_a2": "افزایش ۴۰٪ عملکرد و پاسخ‌دهی اپلیکیشن‌ها.",
+  "exp_sarvina_a3": "افزایش سرعت توسعه تا ۳۰٪ با بهبود فرآیندها.",
+  "tab_home": "خانه",
+  "tab_experience": "سابقه کاری",
+  "tab_projects": "پروژه‌ها",
+
+  "hero_name": "الیاس باباخانی",
+  "hero_title": "توسعه‌دهنده فلاتر",
+
+  "email_title": "ایمیل",
+  "email_sub": "ارسال ایمیل مستقیم",
+
+  "whatsapp_title": "واتساپ",
+  "whatsapp_sub": "گفتگوی سریع",
+
+  "telegram_title": "تلگرام",
+  "telegram_sub": "ارسال پیام",
+
+  "github_title": "گیت‌هاب",
+  "github_sub": "مشاهده پروژه‌ها"
+}

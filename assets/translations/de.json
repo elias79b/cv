@@ -1,0 +1,57 @@
+{
+  "skills_title": "Fähigkeiten",
+  "skill_flutter": "Flutter Entwicklung",
+  "skill_flutter_desc": "Entwicklung leistungsstarker und responsiver Mobile- und Webanwendungen mit Flutter.",
+  "skill_state": "State Management",
+  "skill_state_desc": "Erfahrung mit Bloc, Provider und skalierbaren Architekturen.",
+  "skill_backend": "Backend & Datenbanken",
+  "skill_backend_desc": "Arbeit mit Firebase, Supabase, REST APIs und lokalen Datenbanken.",
+  "skill_arch": "Architektur",
+  "skill_arch_desc": "MVVM, Clean Architecture und wartbare Codebasen.",
+  "skill_tools": "Entwicklungswerkzeuge",
+  "skill_tools_desc": "Android Studio, Git, GitHub, Trello, Jira.",
+  "skill_ci": "CI / CD",
+  "skill_ci_desc": "Automatisierte Build-, Test- und Deployment-Prozesse.",
+  "projects_title": "Projekte",
+  "view_project": "Projekt ansehen",
+
+  "project_tarazino": "Tarazino",
+  "project_tarazino_desc": "Moderne Finanzassistent-App für Gehaltsberechnung und Finanzplanung.",
+
+  "project_speech": "Speech to Text",
+  "project_speech_desc": "Echtzeit-Spracherkennungs-App mit Fokus auf Geschwindigkeit und Genauigkeit.",
+  "experience_title": "Berufserfahrung",
+
+  "exp_tadilo_role": "Flutter Entwickler",
+  "exp_tadilo_date": "Februar 2025 – Heute",
+  "exp_tadilo_a1": "Entwicklung skalierbarer Flutter-Anwendungen für Einzelhandelsketten.",
+  "exp_tadilo_a2": "Reduzierung der Betriebskosten um bis zu 50% durch datenbasierte Lösungen.",
+
+  "exp_sarvina_role": "Flutter Entwickler",
+  "exp_sarvina_date": "Mai 2023 – Februar 2025",
+  "exp_sarvina_a1": "Entwicklung und Veröffentlichung leistungsstarker Flutter-Apps.",
+  "exp_sarvina_a2": "Verbesserung der Performance und Reaktionsfähigkeit um 40%.",
+  "exp_sarvina_a3": "Steigerung der Entwicklungsgeschwindigkeit um 30%.",
+  "download_cv": "Lebenslauf herunterladen",
+  "tab_home": "Start",
+  "tab_experience": "Berufserfahrung",
+  "tab_projects": "Projekte",
+
+  "hero_name": "Elyas Babakhani",
+  "hero_title": "Flutter Mobile Entwickler",
+
+  "email_title": "E-Mail senden",
+  "email_sub": "Kontakt per E-Mail",
+
+  "whatsapp_title": "WhatsApp",
+  "whatsapp_sub": "Sofort chatten",
+
+  "telegram_title": "Telegram",
+  "telegram_sub": "Nachricht senden",
+
+  "github_title": "GitHub",
+  "github_sub": "Meine Projekte ansehen"
+
+
+
+}

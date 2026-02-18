@@ -1,0 +1,55 @@
+{
+  "skills_title": "المهارات",
+  "skill_flutter": "تطوير Flutter",
+  "skill_flutter_desc": "بناء تطبيقات موبايل وويب عالية الأداء باستخدام Flutter.",
+  "skill_state": "إدارة الحالة",
+  "skill_state_desc": "خبرة في Bloc و Provider وحلول قابلة للتوسع.",
+  "skill_backend": "الخلفية وقواعد البيانات",
+  "skill_backend_desc": "Firebase و Supabase و REST APIs وقواعد البيانات المحلية.",
+  "skill_arch": "الهندسة المعمارية",
+  "skill_arch_desc": "MVVM و Clean Architecture وكود سهل الصيانة.",
+  "skill_tools": "أدوات التطوير",
+  "skill_tools_desc": "Android Studio و Git و GitHub و Trello و Jira.",
+  "skill_ci": "CI / CD",
+  "skill_ci_desc": "أتمتة عمليات البناء والاختبار والنشر.",
+  "projects_title": "المشاريع",
+  "view_project": "عرض المشروع",
+
+  "project_tarazino": "Tarazino",
+  "project_tarazino_desc": "تطبيق مساعد مالي حديث لإدارة الرواتب والتخطيط المالي.",
+
+  "project_speech": "تحويل الكلام إلى نص",
+  "project_speech_desc": "تطبيق تحويل الكلام إلى نص في الوقت الحقيقي.",
+  "experience_title": "الخبرات العملية",
+
+  "exp_tadilo_role": "مطور Flutter",
+  "exp_tadilo_date": "فبراير 2025 – الآن",
+  "exp_tadilo_a1": "تطوير تطبيقات Flutter قابلة للتوسع.",
+  "exp_tadilo_a2": "تقليل التكاليف التشغيلية بنسبة تصل إلى 50٪.",
+
+  "exp_sarvina_role": "مطور Flutter",
+  "exp_sarvina_date": "مايو 2023 – فبراير 2025",
+  "exp_sarvina_a1": "تطوير تطبيقات Flutter عالية الأداء.",
+  "exp_sarvina_a2": "تحسين الأداء بنسبة 40٪.",
+  "exp_sarvina_a3": "زيادة سرعة التطوير بنسبة 30٪.",
+  "download_cv": "تحميل السيرة الذاتية",
+
+  "tab_home": "الرئيسية",
+  "tab_experience": "الخبرة",
+  "tab_projects": "المشاريع",
+
+  "hero_name": "إلياس باباخاني",
+  "hero_title": "مطور تطبيقات Flutter",
+
+  "email_title": "إرسال بريد",
+  "email_sub": "تواصل عبر البريد الإلكتروني",
+
+  "whatsapp_title": "واتساب",
+  "whatsapp_sub": "دردشة فورية",
+
+  "telegram_title": "تلغرام",
+  "telegram_sub": "إرسال رسالة",
+
+  "github_title": "GitHub",
+  "github_sub": "عرض مشاريعي"
+}

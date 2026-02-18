@@ -1,0 +1,55 @@
+{
+  "skills_title": "Competenze",
+  "skill_flutter": "Sviluppo Flutter",
+  "skill_flutter_desc": "Sviluppo di applicazioni mobile e web ad alte prestazioni con Flutter.",
+  "skill_state": "Gestione dello stato",
+  "skill_state_desc": "Esperienza con Bloc, Provider e architetture scalabili.",
+  "skill_backend": "Backend e Database",
+  "skill_backend_desc": "Firebase, Supabase, API REST e database locali.",
+  "skill_arch": "Architettura",
+  "skill_arch_desc": "MVVM, Clean Architecture e codice manutenibile.",
+  "skill_tools": "Strumenti di sviluppo",
+  "skill_tools_desc": "Android Studio, Git, GitHub, Trello, Jira.",
+  "skill_ci": "CI / CD",
+  "skill_ci_desc": "Automazione di build, test e deploy.",
+  "projects_title": "Progetti",
+  "view_project": "Visualizza progetto",
+
+  "project_tarazino": "Tarazino",
+  "project_tarazino_desc": "Applicazione finanziaria moderna per la pianificazione e gestione.",
+
+  "project_speech": "Speech to Text",
+  "project_speech_desc": "Applicazione di riconoscimento vocale in tempo reale.",
+  "experience_title": "Esperienza",
+
+  "exp_tadilo_role": "Sviluppatore Flutter",
+  "exp_tadilo_date": "Febbraio 2025 – Presente",
+  "exp_tadilo_a1": "Sviluppo di applicazioni Flutter scalabili.",
+  "exp_tadilo_a2": "Riduzione dei costi operativi fino al 50%.",
+
+  "exp_sarvina_role": "Sviluppatore Flutter",
+  "exp_sarvina_date": "Maggio 2023 – Febbraio 2025",
+  "exp_sarvina_a1": "Sviluppo di applicazioni Flutter ad alte prestazioni.",
+  "exp_sarvina_a2": "Miglioramento delle prestazioni del 40%.",
+  "exp_sarvina_a3": "Aumento della velocità di sviluppo del 30%.",
+  "download_cv": "Scarica CV",
+  "tab_home": "Home",
+  "tab_experience": "Esperienza",
+  "tab_projects": "Progetti",
+
+  "hero_name": "Elyas Babakhani",
+  "hero_title": "Sviluppatore Flutter Mobile",
+
+  "email_title": "Invia email",
+  "email_sub": "Contattami via email",
+
+  "whatsapp_title": "WhatsApp",
+  "whatsapp_sub": "Chat immediata",
+
+  "telegram_title": "Telegram",
+  "telegram_sub": "Invia un messaggio",
+
+  "github_title": "GitHub",
+  "github_sub": "Visualizza i miei progetti"
+
+}

@@ -1,0 +1,55 @@
+{
+  "skills_title": "Compétences",
+  "skill_flutter": "Développement Flutter",
+  "skill_flutter_desc": "Création d'applications mobiles et web performantes avec Flutter.",
+  "skill_state": "Gestion d’état",
+  "skill_state_desc": "Expérience avec Bloc, Provider et solutions évolutives.",
+  "skill_backend": "Backend & Bases de données",
+  "skill_backend_desc": "Firebase, Supabase, APIs REST et bases locales.",
+  "skill_arch": "Architecture",
+  "skill_arch_desc": "MVVM, Clean Architecture et code maintenable.",
+  "skill_tools": "Outils de développement",
+  "skill_tools_desc": "Android Studio, Git, GitHub, Trello, Jira.",
+  "skill_ci": "CI / CD",
+  "skill_ci_desc": "Pipelines automatisés de build et déploiement.",
+  "projects_title": "Projets",
+  "view_project": "Voir le projet",
+
+  "project_tarazino": "Tarazino",
+  "project_tarazino_desc": "Application d'assistance financière moderne pour la gestion et la planification.",
+
+  "project_speech": "Speech to Text",
+  "project_speech_desc": "Application de reconnaissance vocale en temps réel axée sur la performance.",
+  "experience_title": "Expérience",
+
+  "exp_tadilo_role": "Développeur Flutter",
+  "exp_tadilo_date": "Février 2025 – Présent",
+  "exp_tadilo_a1": "Développement d'applications Flutter évolutives pour commerces.",
+  "exp_tadilo_a2": "Réduction des coûts opérationnels jusqu'à 50%.",
+
+  "exp_sarvina_role": "Développeur Flutter",
+  "exp_sarvina_date": "Mai 2023 – Février 2025",
+  "exp_sarvina_a1": "Développement d'applications Flutter performantes.",
+  "exp_sarvina_a2": "Amélioration des performances de 40%.",
+  "exp_sarvina_a3": "Accélération du développement de 30%.",
+  "download_cv": "Télécharger le CV",
+  "tab_home": "Accueil",
+  "tab_experience": "Expérience",
+  "tab_projects": "Projets",
+
+  "hero_name": "Elyas Babakhani",
+  "hero_title": "Développeur Flutter Mobile",
+
+  "email_title": "Envoyer un e-mail",
+  "email_sub": "Me contacter par e-mail",
+
+  "whatsapp_title": "WhatsApp",
+  "whatsapp_sub": "Discuter instantanément",
+
+  "telegram_title": "Telegram",
+  "telegram_sub": "Envoyer un message",
+
+  "github_title": "GitHub",
+  "github_sub": "Voir mes projets"
+
+}

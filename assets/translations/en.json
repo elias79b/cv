@@ -1,0 +1,56 @@
+{
+  "hero_title": "Flutter Mobile Developer",
+  "download_cv": "Download CV",
+  "skills_title": "Skills",
+  "skill_flutter": "Flutter Development",
+  "skill_flutter_desc": "Building high-performance, responsive mobile and web applications using Flutter and Material 3.",
+  "skill_state": "State Management",
+  "skill_state_desc": "Experience with Bloc, Provider, and scalable state management solutions.",
+  "skill_backend": "Backend & Database",
+  "skill_backend_desc": "Working with Firebase, Supabase, REST APIs, and local databases.",
+  "skill_arch": "Architecture",
+  "skill_arch_desc": "MVVM, clean architecture, and maintainable project structures.",
+  "skill_tools": "Development Tools",
+  "skill_tools_desc": "Android Studio, Git, GitHub, Trello, Jira.",
+  "skill_ci": "CI / CD",
+  "skill_ci_desc": "Automated build, test, and deployment pipelines.",
+  "projects_title": "Projects",
+  "view_project": "View Project",
+
+  "project_tarazino": "Tarazino",
+  "project_tarazino_desc": "A modern financial assistant app for salary calculation, financial planning, and management.",
+
+  "project_speech": "Speech to Text",
+  "project_speech_desc": "A real-time speech-to-text application focused on speed, accuracy, and usability.",
+  "experience_title": "Experience",
+
+  "exp_tadilo_role": "Flutter Mobile Developer",
+  "exp_tadilo_date": "February 2025 – Present",
+  "exp_tadilo_a1": "Developed scalable Flutter applications for chain stores and cafes.",
+  "exp_tadilo_a2": "Helped businesses reduce operational costs by up to 50% through data-driven management.",
+
+  "exp_sarvina_role": "Flutter Mobile Developer",
+  "exp_sarvina_date": "May 2023 – February 2025",
+  "exp_sarvina_a1": "Developed and published high-performance Flutter applications.",
+  "exp_sarvina_a2": "Improved application performance and responsiveness by 40%.",
+  "exp_sarvina_a3": "Increased development speed by 30% using improved workflows and tools.",
+  "tab_home": "Home",
+  "tab_experience": "Experience",
+  "tab_projects": "Projects",
+
+  "hero_name": "Elyas Babakhani",
+  "hero_title": "Flutter Mobile Developer",
+
+  "email_title": "Email Me",
+  "email_sub": "Send me an email",
+
+  "whatsapp_title": "WhatsApp",
+  "whatsapp_sub": "Chat instantly",
+
+  "telegram_title": "Telegram",
+  "telegram_sub": "Send a message",
+
+  "github_title": "GitHub",
+  "github_sub": "View my projects"
+
+}
